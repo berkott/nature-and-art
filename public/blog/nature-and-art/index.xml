@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Nature and Art</title>
+    <link>http://localhost:1313/blog/nature-and-art/</link>
+    <description>Recent content on Nature and Art</description>
+    <generator>Hugo 0.125.1</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Beach Ogden.</copyright>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/nature-and-art/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>What is art?</title>
+      <link>http://localhost:1313/what-is-art/</link>
+      <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/what-is-art/</guid>
+      <description>What is art? While a simple question, it is a controversial topic in modern philosophy. This essay explores difficulties of defining art, and presents various entities that highlight the boundaries of what we consider art.&#xA;Defining art Constraints on the defintions of art Cite describes 10 constraints on definitions of art. We consider INSERT NUMBER of them.&#xA;Traditionally, artworks are intentionally endowed by their makers with properties, often sensory, having a significant degree of aesthetic interest, usually surpassing that of most everyday objects.</description>
+    </item>
+  </channel>
+</rss>
