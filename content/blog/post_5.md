@@ -1,5 +1,5 @@
 +++
-title = "Landscape painting formal analysis."
+title = "Rock Mountain Landscape Painting"
 date = "2024-04-22"
 description = "Landscape painting formal analysis."
 tags = [

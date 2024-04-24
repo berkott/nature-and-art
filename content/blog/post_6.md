@@ -1,5 +1,5 @@
 +++
-title = "Rock Garden Formal Analysis?"
+title = "New York Botanical Garden, Rock Garden"
 date = "2024-04-22"
 description = "Rock garden formal analysis."
 tags = [
