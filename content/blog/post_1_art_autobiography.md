@@ -18,7 +18,7 @@ emotions.  -->
 My grandmother on my mother's side has been the only person in my family who regularly creates artwork that fit in a frame. She has most commonly created landscapes of temperate forests with large mountains in the distance, occasionally featuring small, old European structures. While she has explored mediums like oil painting, she mainly does cross-stitching. She has used books for reference and gone from her own imagination. 
 
 <!-- ![main-landscape-cross-stitch](./assets/images/cross-stitch-in-context.jpeg) -->
-![alt](/images/main-landscape-cross-stitch.jpeg)
+![alt](./images/main-landscape-cross-stitch.jpeg)
 
 One of her pieces is situated in the living room right above the couch. I do not know of a name and I estimate it was finished around five to ten years ago. Due to its size and the difficulty of cross-stitching, it must have taken anywhere from a few weeks to a few months of continuous dedication in the evenings. 
 
