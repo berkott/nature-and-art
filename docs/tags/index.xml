@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on Nature and Art</title>
+    <link>https://berkott.github.io/nature-and-art/tags/</link>
+    <description>Recent content in Tags on Nature and Art</description>
+    <generator>Hugo</generator>
+    <language>en-US</language>
+    <copyright>Copyright © 2024, Beach Ogden.</copyright>
+    <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://berkott.github.io/nature-and-art/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Nature and Art</title>
+      <link>https://berkott.github.io/nature-and-art/blog/nature-and-art/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://berkott.github.io/nature-and-art/blog/nature-and-art/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
