@@ -51,7 +51,7 @@ Consider the presented difficulties.
 None of the difficulties are easily resolved. The key issue is that while the drawing is aesthetic, it is not drawn to be aesthetic.
 
 ![alt](lilac.jpg)
-Lilac. New York Botanicsl Garden.
+Lilac. New York Botanical Garden.
 
 Consider the presented difficulties. 
 1. I photographed this lilac tree in the New York Botanical Garden. Here, it clearly had a maker who placed somewhere to look aesthetic. Simply considering a lilac flower in a vaccum, the flower is aesthetic, yet it lacks a human maker.
