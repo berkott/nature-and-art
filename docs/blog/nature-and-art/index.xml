@@ -2,25 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Nature and Art</title>
-    <link>https://berkott.github.io/nature-and-art/blog/nature-and-art/</link>
+    <link>http://localhost:1313/nature-and-art/blog/nature-and-art/</link>
     <description>Recent content on Nature and Art</description>
     <generator>Hugo</generator>
     <language>en-US</language>
-    <copyright>Copyright © 2024, Beach Ogden.</copyright>
+    <copyright>Copyright © 2024, Berkan Ottlik.</copyright>
     <lastBuildDate>Mon, 22 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://berkott.github.io/nature-and-art/blog/nature-and-art/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/nature-and-art/blog/nature-and-art/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Materials Michaelangelo Used in the Sistine Chapel Frescos</title>
-      <link>https://berkott.github.io/nature-and-art/materials-michaelangelo-used-in-the-sistine-chapel-frescos/</link>
+      <link>http://localhost:1313/nature-and-art/materials-michaelangelo-used-in-the-sistine-chapel-frescos/</link>
       <pubDate>Mon, 22 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://berkott.github.io/nature-and-art/materials-michaelangelo-used-in-the-sistine-chapel-frescos/</guid>
+      <guid>http://localhost:1313/nature-and-art/materials-michaelangelo-used-in-the-sistine-chapel-frescos/</guid>
       <description>Pope Julius II commissioned Michaelangelo to paint the ceiling of the Sistine Chapel in 1508. Reluctantly, Michaelangelo accepted and spent four years creating ellaborate frescos on the ceiling with little help (Sistine Chapel). Creating frescos is an ellaborate process. Michaelangelo first applied of a plaster consisting of lime, water, and a volcanic ash onto a surface he prepared the day before (Fresco Painting). It is believed that he occasionally even put another layer of preperation to brighten the colors.</description>
     </item>
     <item>
       <title>Art Autobiography</title>
-      <link>https://berkott.github.io/nature-and-art/art-autobiography/</link>
+      <link>http://localhost:1313/nature-and-art/art-autobiography/</link>
       <pubDate>Sun, 28 Jan 2024 00:00:00 +0000</pubDate>
-      <guid>https://berkott.github.io/nature-and-art/art-autobiography/</guid>
+      <guid>http://localhost:1313/nature-and-art/art-autobiography/</guid>
       <description>Main writing My grandmother on my mother&amp;rsquo;s side has been the only person in my family who regularly creates artwork that fit in a frame. She has most commonly created landscapes of temperate forests with large mountains in the distance, occasionally featuring small, old European structures. While she has explored mediums like oil painting, she mainly does cross-stitching. She has used books for reference and gone from her own imagination.</description>
     </item>
   </channel>

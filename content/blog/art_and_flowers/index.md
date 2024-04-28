@@ -1,6 +1,6 @@
 +++
 title = "What is art?"
-date = "2024-04-22"
+date = "2024-03-25"
 description = "What is art?"
 +++
 
@@ -18,7 +18,7 @@ We will consider these difficulties in defining art to highlight gray areas of w
 ## Case studies
 
 ![alt](still_life.jpg)
-Edouard Manet, Le Déjeuner sur l'herbe, 1862-63. Oil on canvas. Paris, Musée d’Orsay.
+Clara Peeters, A Bouquet of Flowers, 1612. Oil on canvas. New York, The Metropolitan Museum of Art.
 
 Consider the presented difficulties.
 1. The painting of the bouquet is undoubtably significantly more aesthetic than every day objects. 
@@ -28,7 +28,7 @@ Consider the presented difficulties.
 This still life easily addresses all three difficulties, and we even analyzed this still life in class. It is hard to argue this isn't art, I even saw it at The Metropolitan Museum of Art.
 
 ![alt](bouquet.jpg)
-Edouard Manet, Le Déjeuner sur l'herbe, 1862-63. Oil on canvas. Paris, Musée d’Orsay.
+Apple Tree Market, Bouquet, 2024. New York, Apple Tree Market.
 
 Consider the presented difficulties.
 1. The bouquet is undoubtably significantly more aesthetic than every day objects, at least while the flowers are healthy.
@@ -38,9 +38,10 @@ Consider the presented difficulties.
 This bouquet addresses difficulties 1 and 2, but difficulty 3 is slightly more unclear. Would a bouquet commonly be considered artwork? Is it adequately aesthetic and does it require enough human effort to make it art?
 
 ![alt](botanical_drawing.jpg)
-Edouard Manet, Le Déjeuner sur l'herbe, 1862-63. Oil on canvas. Paris, Musée d’Orsay.
+Sydenham Teak Edwards, Syringa Vulgaris-Common Lilac, 1787. Hand colored, engraved prints. William Curtis Botanical Magazine 1st Edition Prints Vol 1-6.
 
-https://www.pinterest.com/pin/beautiful-syringa-vulgaris-common-lilac--107171666113873206/
+![alt](my_botanical_drawing.jpg)
+Berkan Ottlik, Lilac drawing, 2024. Pencil on paper. New York City.
 
 Consider the presented difficulties.
 1. While the botanical drawing is aesthetic, the artist presumably did not intentionally make it aesthetic, rather the plant of interest is by itself aesthetic. 
@@ -50,7 +51,7 @@ Consider the presented difficulties.
 None of the difficulties are easily resolved. The key issue is that while the drawing is aesthetic, it is not drawn to be aesthetic.
 
 ![alt](lilac.jpg)
-Edouard Manet, Le Déjeuner sur l'herbe, 1862-63. Oil on canvas. Paris, Musée d’Orsay.
+Lilac. New York Botanicsl Garden.
 
 Consider the presented difficulties. 
 1. I photographed this lilac tree in the New York Botanical Garden. Here, it clearly had a maker who placed somewhere to look aesthetic. Simply considering a lilac flower in a vaccum, the flower is aesthetic, yet it lacks a human maker.
@@ -61,3 +62,6 @@ Again, none of the difficulties are easily resolved. Considering the tree in a b
 
 ## References
 - Adajian, Thomas. “The Definition of Art.” The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Spring 2022, Metaphysics Research Lab, Stanford University, 2022. Stanford Encyclopedia of Philosophy, https://plato.stanford.edu/archives/spr2022/entries/art-definition/.
+
+
+

@@ -6,8 +6,8 @@ theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
 title = "Nature and Art"
-author = "Beach Ogden"
-copyright = "Copyright © 2024, Beach Ogden."
+author = "Berkan Ottlik"
+copyright = "Copyright © 2024, Berkan Ottlik."
 languageCode = "en-US"
 
 # Generate a nice robots.txt for SEO

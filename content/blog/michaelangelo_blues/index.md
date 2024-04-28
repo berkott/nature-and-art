@@ -1,18 +1,15 @@
 +++
 title = "Materials Michaelangelo Used in the Sistine Chapel Frescos"
-date = "2024-04-22"
+date = "2024-02-27"
 description = "Understanding the blue Michaelangelo used in the Sistine Chapel frescos."
-tags = [
-    "Nature and Art"
-]
 +++
 
-Pope Julius II commissioned Michaelangelo to paint the ceiling of the Sistine Chapel in 1508. Reluctantly, Michaelangelo accepted and spent four years creating ellaborate frescos on the ceiling with little help (Sistine Chapel). Creating frescos is an ellaborate process. Michaelangelo first applied of a plaster consisting of lime, water, and a volcanic ash onto a surface he prepared the day before (Fresco Painting). It is believed that he occasionally even put another layer of preperation to brighten the colors. Then, he imprinted his prepared cartoon onto the plaster as a guide for painting. He alledgedly used only seven mineral based colors, including green earth pigment for gree, ochre for yellows and reds, and cobalt for blue (orion7747). This essay focuses on his use of blue.
+Pope Julius II commissioned Michaelangelo to paint the ceiling of the Sistine Chapel in 1508. Reluctantly, Michaelangelo accepted and spent four years creating elaborate frescos on the ceiling with little help (Sistine Chapel). Creating frescos is an elaborate process. Michaelangelo first applied a plaster consisting of lime, water, and a volcanic ash onto a surface he prepared the day before (Fresco Painting). It is believed that he occasionally even put another layer of preparation to brighten the colors. Then, he imprinted his prepared cartoon onto the plaster as a guide for painting. He allegedly used only seven mineral based colors, including green earth pigment for green, ochre for yellows and reds, and cobalt for blue (orion7747). This essay focuses on his use of blue.
 
 ![alt](cappella_sistina.jpg)
 Michelangelo, Sistine Chapel Ceiling, 1508-1512. Fresco, Vatican, Sistine Chapel
 
-Blue is a rare color in nature, outside of the sky and water. This is because blue is created when object absorb low wavelength light such as red light. For the most part, this requires larger and more complex molecules, that rarely appear in plants and in stones (Weisberger). In painting during the renaissance, blue was also hard to come by and much more expensive than other colors. Michaelangelo obtained azurite from Florence and used it to paint the ceiling of the Sistine Chapel (Wallace). However, azurite was not the most sought after pigment for blue. Ultramarine was considered far superior due to its "tonally rich color, in contrast to the relatively flat and grainy azurite" (Cennini).
+Blue is a rare color in nature, outside of the sky and water. This is because blue is created when objects absorb low wavelength light such as red light. For the most part, this requires larger and more complex molecules that rarely appear in plants and in stones (Weisberger). In painting during the renaissance, blue was also hard to come by and much more expensive than other colors. Michaelangelo obtained azurite from Florence and used it to paint the ceiling of the Sistine Chapel (Wallace). However, azurite was not the most sought after pigment for blue. Ultramarine was considered far superior due to its "tonally rich color, in contrast to the relatively flat and grainy azurite" (Cennini).
 
 However, while azurite was readily found throughout Europe, ultramarine was created from lapis lazuli, which was sourced from the mountains in modern day northern Afghanistan. During the renaissance, it was worth more than gold. To this day, miners in Afghanistan leave their families to travel to high altitudes and dig deep into the tops of mountains in hopes of finding the precious stone (Al Jazeera English). 
 
@@ -25,7 +22,7 @@ In 1534, Pope Paul III commissioned Michaelangelo to paint the west wall of the 
 ![alt](last_judgement.jpg)
 Michelangelo, Sistine Chapel West Wall, 1534-1541. Fresco, Vatican, Sistine Chapel
 
-The difference is striking. The blues in the ceiling are significantly more duller than the west wall. Particularly, the background of the west wall and the clothes of several figures are incredibly vibrant, whereas similar features are washed out in the ceiling. Perhaps Michaelangelo purposley avoided using as much blue in the ceiling.
+The difference is striking. The blues in the ceiling are significantly more duller than the west wall. Particularly, the background of the west wall and the clothes of several figures are incredibly vibrant, whereas similar features are washed out in the ceiling. Perhaps Michaelangelo purposely avoided using as much blue in the ceiling.
 
 ![alt](Sistine_Chapel_ceiling.jpg)
 Michelangelo, Sistine Chapel Ceiling and West Wall, 1508-1512 and 1534-1541. Fresco, Vatican, Sistine Chapel
@@ -71,3 +68,5 @@ https://commons.wikimedia.org/wiki/Category:Sistine_Chapel_ceiling#/media/File:S
 https://www.britannica.com/art/fresco-painting
 
 https://www.britannica.com/topic/Sistine-Chapel -->
+
+
